@@ -12,7 +12,7 @@ I'm a computer science student who like to develop software that works out of th
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,py,html,css,js,nodejs,php,go,matlab,express,flask,laravel,django,spring,react,angular,nextjs,tailwind,bootstrap,mysql,mongodb,docker,git,linux,arch,vscode,neovim&perline=18" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,py,html,css,js,nodejs,php,go,matlab,express,flask,laravel,django,spring,react,angular,nextjs,tailwind,bootstrap,mysql,mongodb,docker,git,linux,vagrant,vscode,neovim&perline=18" />
   </a>
 </p>
 
