@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 300px>
 
-I'm a computer science student who like to develop software that works out of the box.
+I'm a computer science student who like to develop software that works out of the box. Visit my portfolio! https://th3c0dewizard.github.io/portfolio/
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
