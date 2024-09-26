@@ -12,7 +12,7 @@ I'm a software engineering student who loves to write applications from scratch 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,py,html,css,js,nodejs,php,go,express,laravel,react,angular,vue,nextjs,tailwind,mysql,postgres,mongodb,docker,linux,neovim&perline=18" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,py,html,css,js,nodejs,php,go,express,laravel,react,angular,vue,nextjs,expo,tailwind,mysql,postgres,mongodb,docker,linux,neovim&perline=18" />
   </a>
 </p>
 
