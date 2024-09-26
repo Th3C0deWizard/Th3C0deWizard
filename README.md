@@ -20,4 +20,5 @@ I'm a software engineering student who loves to write applications from scratch 
 
 # PostData
 
-**I use Arch BTW** <img src="https://skillicons.dev/icons?i=arch&perline=18" />
+<img src="https://skillicons.dev/icons?i=arch&perline=18" />
+**I use Arch BTW** 
