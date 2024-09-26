@@ -8,8 +8,6 @@ I'm a software engineering student who loves to write applications from scratch 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,java,py,html,css,js,nodejs,php,go,matlab,express,flask,laravel,django,spring,react,angular,gtk,nextjs,tailwind,bootstrap,mysql,mongodb,unity,docker,git,linux,vscode,neovim&perline=18" />
