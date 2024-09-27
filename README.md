@@ -6,7 +6,7 @@
 
 I'm a software engineering student who loves to write applications from scratch and learning new things in the way.
 <br>
-Visit my <a href="https://th3c0dewizard.github.io/portfolio/">Portfolio!</a>
+Do u want to know more about me? Visit my <a href="https://th3c0dewizard.github.io/portfolio/">Portfolio!</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
