@@ -18,8 +18,3 @@ I'm a software engineering student who loves to write applications from scratch 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-# PostData
-
-<img src="https://skillicons.dev/icons?i=arch&perline=18" />
-I use Arch BTW
